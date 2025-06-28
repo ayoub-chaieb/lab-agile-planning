@@ -14,10 +14,10 @@ This repo describes the daily workflow for executing a sprint plan, including ho
 - Explain how to use a burndown chart to help forecast the ability to achieve a sprint goal.
 - Describe the daily workflow, including the daily stand-up meeting.
 
-## lab-agile-planning
+## Lab Agile Planning (project)
 This repository contains the lab for agile planning Learning Objectives mentioned in the previous section.
 
-## agile-final-project
+## Agile Final Project (project)
 This Final Project is mandatory for learners who will be practitioners and are pursuing the [IBM DevOps and Software Engineering Professional Certificate](https://www.edx.org/certificates/professional-certificate/ibm-devops-and-software-engineering?index=product&queryID=6fb5f3bdb1661a739ae1c9bd6d087185&position=2&results_level=first-level-results&term=IBM+DevOps+Professional+Certificate&objectID=program-8ff977cd-9187-4822-8d28-77b8561db968&campaign=DevOps+and+Software+Engineering&source=edX&product_category=professional-certificate&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch).
 
 ### Overview
